@@ -1,0 +1,3 @@
+ How do you select an HTML element using its ID in JavaScript?
+ In JavaScript, we can select an HTML element using its ID by utilizing the "getElementById" method provided by the Document Object Model (DOM).
+This method allow to access a single element in the HTML document with a specific ID attribute.

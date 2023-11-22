@@ -1,0 +1,13 @@
+6. What is the basic structure of an HTML document, and where should you include JavaScript?
+The basic structure of an HTML document is defined by a set of HTML tags that provide structure and content to a web page.
+1.<!DOCTYPE html>
+2.<html>
+3.<head>
+4.<title>
+5.<link rel="stylesheet" href="styles.css">
+6.<body>
+7.<script>
+8.</script>
+9.</body>
+10.</html>
+we include javascript before closing body tag.

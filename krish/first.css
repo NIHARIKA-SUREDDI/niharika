@@ -1,0 +1,178 @@
+* {
+
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  
+} 
+/* body{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border-radius: 50%;
+  border-color: blue;
+  flex-direction: inherit;
+} */
+.circle img{
+    width: 130px;
+    height: 130px;
+    animation: slideshow 64s infinite;
+       
+}
+
+@keyframes slideshow {
+  0% {
+    transform: rotate(0deg);
+  } 
+  50% {
+    transform: rotate(-180deg);
+  }
+}
+.circle{
+  width: 90%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.box {
+  position:fixed;
+  width: 500px;
+  height: 500px;
+  /* border: 2px solid; */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: example 40s linear infinite;
+  z-index: 2;
+ 
+
+
+}
+
+@keyframes example {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+
+  }
+  100% {
+    transform: rotate(360deg);
+
+  }
+}
+
+.box img:first-child {
+  position: absolute;
+  top: 0;
+}
+
+
+.box img:nth-child(2) {
+  position: absolute;
+  left: 1.2rem;
+  top: 7rem;
+
+}
+
+
+.box img:nth-child(3) {
+  position: absolute;
+  right: 1.2rem;
+  top: 7rem;
+}
+
+.box img:nth-child(4) {
+  position: absolute;
+  bottom: 0;
+}
+
+.box img:nth-child(5) {
+  position: absolute;
+  right: 1.2rem;
+  bottom: 7rem;
+}
+
+.box img:last-child {
+  position: absolute;
+  left: 1.2rem;
+  bottom: 7rem;
+}
+.title{
+  position:absolute;
+  width: 300px;
+  height: 300px;
+  
+  border-radius: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: slide 40s linear infinite;
+  
+}
+@keyframes slide {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(-180deg);
+
+  }
+  100% {
+    transform: rotate(-360deg);
+
+  }
+}
+.title img:first-child {
+  position: absolute;
+  top: 0;
+}
+.title img:nth-child(2) {
+  position: absolute;
+  left: 0;
+
+}
+.title img:nth-child(3) {
+  position: absolute;
+  right: 0;
+  
+}
+.title img:nth-child(4) {
+  position: absolute;
+  bottom: 0;
+}
+ .text{
+  width: 200px;
+ height: 200px;
+  position:absolute;
+  border: none;
+  border-radius: 50%;
+  background-color: white;
+}
+.key{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:310px;
+  height: 310px;
+  position: absolute;
+  border: none;
+  border-radius: 50%;
+  background-color:gray;
+  opacity: .2;
+  z-index: -3;
+}
+
+.page {
+  width: 380px;
+  height: 380px;
+   position:absolute;
+   border: .1px solid;
+   border-radius: 50%;
+   opacity: .2;
+   
+  }

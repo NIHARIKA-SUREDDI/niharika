@@ -1,0 +1,6 @@
+ What are event listeners, and why are they used in JavaScript?
+ JavaScript Event Listeners is a method in JavaScript which waits for an event to take place.
+Event Listeners also known as Event Handlers.
+uses:
+1.code reusability
+2.Dynamic content

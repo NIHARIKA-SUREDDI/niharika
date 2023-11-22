@@ -1,0 +1,4 @@
+ What is encapsulation, and how does it relate to object-oriented programming?
+ The JavaScript Encapsulation is a process of binding the data (i.e. variables) with the functions and acting on that data. 
+ Encapsulation helps in achieving the principles of data encapsulation and  information hiding.
+ Encapsulation is a core principle of object-oriented programming that contributes to code reusability and maintainability .

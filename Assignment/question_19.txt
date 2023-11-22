@@ -1,0 +1,13 @@
+19. Provide an example of a `for` loop and explain its components.
+
+for (let i = 0; i < 5; i++) 
+{
+    console.log(i);     
+}
+components:
+Expression 1 sets a variable before the loop starts (let i = 0).
+
+Expression 2 defines the condition for the loop to run (i must be less than 5).
+
+Expression 3 increases a value (i++) each time the code block in the loop has been executed.
+

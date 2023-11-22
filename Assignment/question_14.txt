@@ -1,0 +1,7 @@
+14. Give an example of a comparison operator and explain its use.
+let x=10;
+let y=20;
+let z =x>y;
+console.log(z)
+
+Comparison operators are used in logical statements to equality or difference between variables or values.

@@ -1,0 +1,6 @@
+22. Explain the difference between parameters and return values in a function.
+Parameters in a Function:
+Parameters are variables declared within the parentheses of a function's declaration.
+Return Values in a Function:
+When JavaScript reaches a return statement, the function will stop executing.
+A return value is the value that a function sends back to the code that called it.

@@ -1,0 +1,4 @@
+3. How does JavaScript differ from HTML and CSS?
+html is used to structure the content of web page.
+css is used to styling the web page.
+javascript is used to adding functionality of web pages.

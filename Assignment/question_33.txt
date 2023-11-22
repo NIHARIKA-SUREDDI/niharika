@@ -1,0 +1,5 @@
+Explain what the Document Object Model (DOM) is and why it's important for web development.
+ Document Object Model (DOM) is a platform and language-neutral interface. 
+ The DOM allows developers to manipulate the structure, content, and style of a web page using programming languages like JavaScript.
+ it is important for web development because developers to create dynamic, interactive, and user-friendly web pages and applications.
+ The DOM is essential for creating interactive web pages.

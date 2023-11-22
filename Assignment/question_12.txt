@@ -1,0 +1,2 @@
+12. How do you convert a string to a number in JavaScript?
+By using  parseInt() function is used to parse a string and convert it into an integer.

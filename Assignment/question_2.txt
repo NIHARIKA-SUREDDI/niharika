@@ -1,0 +1,5 @@
+2. Explain how JavaScript enhances user experience on websites.
+JavaScript is a versatile programming language that plays a crucial role in enhancing user experiences on websites.
+it allows developers to create dynamic and interactive elements like interactivity and dynamic content.
+and animations and effects.
+

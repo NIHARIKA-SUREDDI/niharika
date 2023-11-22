@@ -1,0 +1,10 @@
+How do you access a property of an object using dot notation?
+we can access a property of an object using dot notation in JavaScript. 
+Dot notation involves using the dot (.) followed by the property name to access its value.
+syntax:
+objectName.propertyName
+example:
+let person = {name: "krish", age: 28, profession: "Doctor"};
+console.log(person.name);       
+console.log(person.age);        
+console.log(person.profession); 

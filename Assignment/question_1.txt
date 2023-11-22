@@ -1,0 +1,5 @@
+1. What is JavaScript, and what role does it play in web development?
+javascript  is the scripting or programming language and it is used for webdevelopment.
+role:
+JavaScript can change html content.
+and it is used for adding functionality of web pages.

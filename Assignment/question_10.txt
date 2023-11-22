@@ -1,0 +1,8 @@
+10. Explain the differences between `var`, `let`, and `const` in terms of variable scope and reassignment.
+differences between `var`, `let`, and `const` in terms of variable scope and reassignment.
+variable:
+In variable having global scope and reassignment of variables.
+let:
+let having block scope and can be reassigned.
+const:
+const having block scope and cannot be reassigned.

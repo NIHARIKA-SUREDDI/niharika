@@ -1,0 +1,15 @@
+20. How does a `while` loop differ from a `do while` loop?
+ while loop  through a block of code as long as a specified condition is true.
+Syntax:
+while (condition) 
+{
+  
+}
+Do while loop:
+This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+Syntax:
+do
+ {
+  
+}
+while (condition);

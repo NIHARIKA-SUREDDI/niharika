@@ -1,0 +1,2 @@
+8. Why is it a good practice to place JavaScript files at the end of the `<body>` tag?
+Placing JavaScript files at the end of the <body> tag is considered a good practice because code execute from top to bottom.

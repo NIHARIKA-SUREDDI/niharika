@@ -1,0 +1,6 @@
+27. How do you add a new element to the end of an array?
+By using push()add a new element to the end of an array.
+example:
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Kiwi");
+console.log(fruits)

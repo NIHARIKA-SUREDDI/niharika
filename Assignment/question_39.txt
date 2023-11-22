@@ -1,0 +1,3 @@
+How can you prevent the default behavior of an event using JavaScript?
+By using the preventDefault() method on the event object.
+The preventDefault() method cancels the event if it is cancelable, meaning that the default action that belongs to the event will not occur.

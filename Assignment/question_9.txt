@@ -1,0 +1,4 @@
+9. Name three different ways to declare variables in JavaScript.
+1.var
+2.let
+3.const

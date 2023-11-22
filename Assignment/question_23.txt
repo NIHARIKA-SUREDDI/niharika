@@ -1,0 +1,10 @@
+23. How do you create a named function and call it?
+ the named function using the function keyword, followed by the function name and a pair of parentheses (). Inside the parentheses, 
+ specify parameters if the function requires any.
+ syntax:
+ function functionName(parameter1, parameter2)
+  {
+    // function body
+  }
+
+ To call the named function,  use its name followed by parentheses (). 

@@ -1,0 +1,3 @@
+ What is an event handler, and how is it used in the context of DOM manipulation?
+ the process of reacting over elements is called event handler.
+ Events can be various user interactions, such as clicks, key presses, form submissions, mouse movements.

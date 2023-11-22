@@ -1,0 +1,13 @@
+11. List at least three data types in JavaScript and provide an example of each.
+1.string
+2.number
+3.boolean
+object
+undefined
+
+string:(examples)
+let color="pink";
+boolean:
+let x =true;
+object:
+const person={firstname:"krish", lastname:"reddy"};

@@ -1,0 +1,3 @@
+29. Define what an object is in JavaScript.
+ An object is a collection of properties, The values are written as name:value pairs and separated by commas.
+An object in JavaScript is defined using curly braces {}.

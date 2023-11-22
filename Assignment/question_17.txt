@@ -1,0 +1,23 @@
+17. Compare and contrast the `if`, `else if`, and `else` statements. 
+ if, else if, and else statements are used in JavaScript to create conditional branching, allowing you to execute different blocks of code based on certain conditions. 
+* if to specify a block of code to be executed, if a specified condition is true
+*else to specify a block of code to be executed, if the same condition is false
+*else if to specify a new condition to test, if the first condition is false
+1.
+if (condition) {
+  
+}
+//
+2.if (condition) {
+  
+} else {
+  
+}
+//
+3.if (condition1) {
+  
+} else if (condition2) {
+  
+} else {
+  
+}

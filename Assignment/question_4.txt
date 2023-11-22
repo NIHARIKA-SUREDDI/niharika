@@ -1,0 +1,5 @@
+ Give an example of a situation where using JavaScript would be beneficial.
+ online shopping website:
+ javaScript is used to dynamically load product listings when user scroll down the page.
+ it prevents the need to load a new page for each set of products.
+ 

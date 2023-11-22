@@ -1,0 +1,3 @@
+13. What is the purpose of arithmetic operators in JavaScript?
+Arithmetic operators in JavaScript are used to perform various mathematical operations on numerical values.
+ such as addition, subtraction, multiplication, division,Modulus ,Exponentiation.

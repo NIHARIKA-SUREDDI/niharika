@@ -1,0 +1,3 @@
+7. Can you have multiple JavaScript files linked to a single HTML document?
+
+yes , multiple JavaScript files linked to a single HTML document ,we include javascript before closing body tag and  as like we can use script tag with src  and add for multiple javascript files.

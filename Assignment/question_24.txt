@@ -1,0 +1,9 @@
+24. Describe the concept of scope in JavaScript and how it relates to variable visibility.
+Scope in JavaScript refers to  in which variables are declared and accessed. 
+JavaScript has two main types of scope: global scope and local scope.
+global scope:
+Variables declared outside of any function or block have global scope. They are accessible from anywhere in the code.
+local scope:
+Variables declared within a function or block have local scope.They are only accessible within the function or block in which they are declared. 
+Variable Visibility:
+The concept of scope is closely related to variable visibility. The scope determines where a variable can be accessed and manipulated.

@@ -1,0 +1,4 @@
+ When would you use a `switch` statement instead of multiple `if` statements?
+ A switch statement is used for alternative to using multiple if statements when  have a single expression that we want to compare against multiple possible values.
+  It provides  more efficient way to handle multiple conditional cases.
+  then use a switch statement over multiple if statements.
